@@ -1,0 +1,15 @@
+.poto{
+  border-right-style: groove;
+}
+.hide{
+  list-style:none;
+}
+.list {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	justify-content: center;
+}
+.cardWidth{
+	width: 14rem;
+}
